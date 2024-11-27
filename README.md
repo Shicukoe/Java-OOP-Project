@@ -28,7 +28,7 @@ Lecturer: **Dr. Tran Hong Ngoc**
 
 ## **Report**
 For a detailed explanation of the system's design, implementation, and evaluation, please refer to our comprehensive project report:  
-[**Download the Report**](./Our%20Report%20for%20the%20project.docx)
+[**Download the Report**](Our Report for the Project.docx)
 
 ---
 ## **System Requirements**
