@@ -26,6 +26,11 @@ Lecturer: **Dr. Tran Hong Ngoc**
 
 ---
 
+## **Report**
+For a detailed explanation of the system's design, implementation, and evaluation, please refer to our comprehensive project report:  
+[**Download the Report**](./Our%20Report%20for%20the%20project.docx)
+
+---
 ## **System Requirements**
 1. **Java Development Kit (JDK)**: Version 8 or later.
 2. **Apache Tomcat**: Version 8.5 or later.
