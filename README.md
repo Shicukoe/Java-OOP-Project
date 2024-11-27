@@ -134,13 +134,7 @@ Stores information about the pets available for sale or adoption.
 
 ## **Troubleshooting**
 
-### Common Issues
-1. **Database Connection Error**:
-   - Ensure the Oracle database is running.
-   - Verify that the `context.xml` file contains the correct credentials.
-2. **Tomcat Deployment Error**:
-   - Check the `logs/catalina.out` file for detailed error messages.
-3. **Build Failures**:
+ **Build Failures**:
    - Run the following commands to clean and rebuild the project:
      ```bash
      mvn clean
